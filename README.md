@@ -1,5 +1,7 @@
 ## Full completions for the Chai Assertion Library
 
+**NB: forked from [seethroughtrees's repo](https://github.com/seethroughtrees/sublime-chai-full-completions) to change to ES6 fat arrow syntax.**
+
 This sublime package will install completions for *bdd* and *tdd*:
 - [*should*](http://chaijs.com/api/bdd/)
 - [*expect*](http://chaijs.com/api/bdd/)
