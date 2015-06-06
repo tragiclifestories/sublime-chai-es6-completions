@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-beforeEach(function () {
+beforeEach(() => {
 	$1
 });$0
 ]]></content>
